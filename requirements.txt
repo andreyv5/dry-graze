@@ -1,0 +1,11 @@
+streamlit==1.35.0
+spacy==3.7.5
+pandas==2.2.2
+seaborn==0.13.2
+matplotlib==3.9.0
+psycopg2-binary==2.9.9
+spacy-download==1.1.0
+ngrok==1.3.0
+scikit-learn==1.5.0
+statsmodels==0.14.2
+spacy-streamlit==1.0.6
