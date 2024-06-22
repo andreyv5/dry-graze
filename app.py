@@ -14,7 +14,7 @@ class MethodOptions(Enum):
 
 @st.cache_data
 def load_array_table(id_survey: int):
-    path = "/Users/macbook/habr/calculus/scaffolding/array.csv"
+    path = "scaffolding/array.csv"
     columns = ["id", "first_word", "second_word", "name", "age", "floor", "time", "id_survey", "date"]
 
     array = pd.read_csv(path)
